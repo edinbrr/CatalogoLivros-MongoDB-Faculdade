@@ -31,30 +31,27 @@
 
 ```bash
 git clone https://github.com/edinbrr/CatalogoLivros-MongoDB-Faculdade.git
+
 2️⃣ Backend – livros-servidor
-bash
-Copiar
-Editar
+
 cd livros-servidor
 npm install
 npm start
+
 🟢 Servidor disponível em: http://localhost:3030/livros
 
 ⚠️ Certifique-se de que o MongoDB esteja instalado e em execução localmente.
 
 3️⃣ Frontend – livros-angular
-bash
-Copiar
-Editar
+
 cd livros-angular
 npm install
 ng serve
+
 🌐 Acesse no navegador: http://localhost:4200
 
 📦 Estrutura de Pastas
-css
-Copiar
-Editar
+
 livros-servidor/
  ┣ modelo/
  ┃ ┣ conexao.js
@@ -73,7 +70,9 @@ livros-angular/
  ┃ ┃ ┃ ┗ livro-lista.component.*
  ┃ ┃ ┗ livro-dados/
  ┃ ┃ ┃ ┗ livro-dados.component.*
+
 📌 Observações
+
 Todos os dados são armazenados na base livraria, coleção livros do MongoDB local.
 
 Foram utilizadas boas práticas como serviços, injeção de dependência e modularização.
@@ -81,7 +80,8 @@ Foram utilizadas boas práticas como serviços, injeção de dependência e modu
 O projeto pode ser facilmente expandido com funcionalidades como edição de livros e filtros de busca.
 
 👨‍🎓 Autor
-Desenvolvido por Edson Victor
+
+👨‍🏫 Desenvolvido por Edson Victor
 📚 Projeto Acadêmico – Desenvolvimento Full Stack
 📆 2025
 
