@@ -84,5 +84,6 @@ O projeto pode ser facilmente expandido com funcionalidades como edição de liv
 👨‍🏫 Desenvolvido por Edson Victor
 📚 Projeto Acadêmico – Desenvolvimento Full Stack
 📆 2025
+```
 
-<p align="center"> <strong>✔️ Trabalho 100% funcional e pronto para entrega!</strong> </p> ```
+<p align="center"> <strong>✔️ Trabalho 100% funcional e pronto para entrega!</strong> </p>
