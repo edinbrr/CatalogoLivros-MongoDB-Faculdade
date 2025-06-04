@@ -55,6 +55,8 @@ ng serve
 🌐 Acesse no navegador: http://localhost:4200
 ```
 
+---
+
 📦 Estrutura de Pastas
 
 ```
@@ -78,6 +80,8 @@ livros-angular/
  ┃ ┃ ┃ ┗ livro-dados.component.*
 ```
 
+---
+
 📌 Observações
 
 Todos os dados são armazenados na base livraria, coleção livros do MongoDB local.
@@ -85,6 +89,8 @@ Todos os dados são armazenados na base livraria, coleção livros do MongoDB lo
 Foram utilizadas boas práticas como serviços, injeção de dependência e modularização.
 
 O projeto pode ser facilmente expandido com funcionalidades como edição de livros e filtros de busca.
+
+---
 
 👨‍🎓 Autor
 
