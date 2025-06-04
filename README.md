@@ -4,10 +4,6 @@
   Sistema completo com Angular + Node.js + MongoDB para gerenciar livros 📘📗📕
 </p>
 
-<p align="center">
-  <strong>Projeto prático da disciplina DGT2815 - Integração de Páginas Web com Banco de Dados</strong>
-</p>
-
 ---
 
 ## ✨ Tecnologias Utilizadas
@@ -34,7 +30,7 @@
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/edinbrr/CatalogoLivros-MongoDB-Faculdade.git
 2️⃣ Backend – livros-servidor
 bash
 Copiar
@@ -86,7 +82,7 @@ O projeto pode ser facilmente expandido com funcionalidades como edição de liv
 
 👨‍🎓 Autor
 Desenvolvido por Edson Victor
-📚 Projeto acadêmico – Faculdade PY
+📚 Projeto Acadêmico – Desenvolvimento Full Stack
 📆 2025
 
 <p align="center"> <strong>✔️ Trabalho 100% funcional e pronto para entrega!</strong> </p> ```
